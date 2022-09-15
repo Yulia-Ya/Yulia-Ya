@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yulia</h1>
 <h3 align="center">Fullstack developer from Moscow</h3>
-<img align="center" alt="Coding" width="400" scr"https://dribbble.com/shots/3587000-Coding?utm_source=Clipboard_Shot&utm_campaign=guillaumekurkdjian&utm_content=Coding&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=guillaumekurkdjian&utm_content=Coding&utm_medium=Social_Share">
+<img align="center" alt="Coding" width="400" scr="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 - 📫 How to reach me **yuliayakusheva@gmail.com**
 
