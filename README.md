@@ -2,9 +2,9 @@
 <h3 align="center">Fullstack developer from Moscow</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif"/> 
 
-- 📫 How to reach me **yuliayakusheva@gmail.com**
+- 📫 How to reach me **http://t.me/Yulia_Ox**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
