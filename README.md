@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yulia</h1>
 <h3 align="center">Fullstack developer from Moscow</h3>
-<img align="center" alt="Coding" width="400" scr"https://media1.giphy.com/media/26tn33aiTi1jkl6H6/200.gif">
+<img align="center" alt="Coding" width="400" scr"https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif">
 
 - 📫 How to reach me **yuliayakusheva@gmail.com**
 
