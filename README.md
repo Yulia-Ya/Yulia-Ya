@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yulia</h1>
 <h3 align="center">Fullstack developer from Moscow</h3>
-<img align="center" alt="Coding" width="400" scr="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-and-programming-applications-dark-neon_39422-971.jpg">
+<img align="center" alt="Coding" width="400" scr="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-and-programming-applications-dark-neon_39422-971">
 
 - 📫 How to reach me **yuliayakusheva@gmail.com**
 
