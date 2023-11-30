@@ -4,8 +4,7 @@
 
  - 📫 Связь со мной **http://t.me/Yulia_Ox**
  - ✨ Мне нравится **💯 Coding 
-                     🍕 Pizza 
-                     🎮 Video games**
+                     🍕 Pizza **
    
 
 
