@@ -1,5 +1,5 @@
 <h1 align="center">Hello,World! 🗺 I'm Yulia</h1>
-<h3 align="center">Fullstack developer from Moscow</h3>
+<h3 align="center">Frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif"/> 
 
  - 📫 Связь со мной **http://t.me/Yulia_Ox**
